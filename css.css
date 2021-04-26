@@ -1,0 +1,12 @@
+.bg-dark{
+  height: 100px;
+ 
+}
+body{
+    background: -webkit-linear-gradient(to right, #1d976c, #93f9b9);
+    background: linear-gradient(to right, #11998e, #38ef7d);
+
+}
+#brand{
+    font-size:50px;
+}
